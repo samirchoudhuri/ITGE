@@ -1,0 +1,9 @@
+1 1
+50000. 500. 25.0
+1. 1
+
+
+#chan1 chan2
+#Umax(lamda) Umin(lamda) dU(lamda)
+#fac (1=for freq. scaling of the baseline,0=no scaling)
+#flagLL (1=read LL 0=not read(-1.e8))
